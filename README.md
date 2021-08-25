@@ -7,7 +7,7 @@ Este es el template inicial para crear apliacaciones utilizando webpack.
 Los modulos se reconstruyen con 
 
 ```
-npm instal
+npm install
 ```
 
 y el build se construye con
